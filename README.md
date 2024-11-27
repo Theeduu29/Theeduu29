@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Bienvenido a mi GitHub! 👋
 
-<!--
-**Theeduu29/Theeduu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Jose Eduardo Hernandez, un apasionado desarrollador que trabaja con diversas tecnologías. 💻✨
 
-Here are some ideas to get you started:
+## Lenguajes y Herramientas que Manejo 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python** 🐍: Para desarrollo web, análisis de datos y automatización.
+- **CSS** 🎨: Para crear experiencias visuales elegantes y responsivas.
+- **HTML** 🌐: Construyo estructuras web sólidas y accesibles.
+- **Flutter** 📱: Desarrollando aplicaciones móviles y multiplataforma.
+
+## Proyectos Destacados 🌟
+
+En este perfil encontrarás proyectos que abarcan desde desarrollo web hasta aplicaciones móviles, pasando por soluciones basadas en Python. 🚀
+
+Si te interesa colaborar o aprender más sobre cualquiera de estos temas, ¡no dudes en contactarme! 💬
+
+Gracias por visitar mi perfil. ¡Espero que disfrutes explorando mi trabajo! 😊
